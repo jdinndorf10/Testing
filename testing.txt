@@ -7,8 +7,5 @@ sldfkaslfj
 asdlfkajs
 
 
-<<<<<<< HEAD
-changing for just hotfix branch
-=======
-changing for just fix21 branch
->>>>>>> fix21
+
+changing for just fixed no merge branch
